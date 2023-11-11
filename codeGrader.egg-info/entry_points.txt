@@ -1,0 +1,2 @@
+[console_scripts]
+grademe = codegrader_pkg.codeGrader:main
